@@ -12,7 +12,7 @@
 
     <!-- Core Css -->
     <link rel="stylesheet" href="<?= base_url('assets/monster/css/styles.css')?>" />
-    <title>Bench Fee</title>
+    <title>My FYP Project </title>
     <!-- Owl Carousel  -->
     <link rel="stylesheet" href="<?= base_url('assets/monster/libs/owl.carousel/dist/assets/owl.carousel.min.css')?>" />
 
