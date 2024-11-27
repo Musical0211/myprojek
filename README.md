@@ -10,4 +10,4 @@ Step to run the container
 6) run command ````cd d:\dev\mynemo-fyp````
 7) run command ```docker compose up -d --build``` for running this app
 8) open browser.. browse to url ````http://localhost```` for login page
-9) open browser.. browse to url ````http://localhost/myprojek```` for test the projek
+9) open browser.. browse to url ````http://localhost/myprojek```` to test the project
